@@ -15,7 +15,7 @@ function NavbarComponent() {
             <Nav className="ms-auto">
               <Nav.Link href="#home">Home</Nav.Link>
               <Nav.Link href="#services">Services</Nav.Link>
-              <Nav.Link href="https://www.indiapost.gov.in/_layouts/15/dop.portal.tracking/trackconsignment.aspx" target="_blank" rel="noopener noreferrer">Track Package</Nav.Link>
+              <Nav.Link href="#order-form">Order</Nav.Link>
               <Nav.Link href="#contact">Contact</Nav.Link>
             </Nav>
             

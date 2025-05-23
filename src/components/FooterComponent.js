@@ -10,7 +10,7 @@ function FooterComponent() {
           <Col md={4}>
             <h5>Garuda enterprises 
 </h5>
-            <p>Your trusted partner for all delivery needs. We pride ourselves on speed, reliability, and excellent customer service.</p>
+            <p>Reliable, efficient, and compliant import/export solutions for businesses worldwide</p>
           </Col>
           <Col md={4}>
             <h5>Quick Links</h5>

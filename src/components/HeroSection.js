@@ -10,13 +10,12 @@ function HeroSection() {
         <Row className="align-items-center">
           <Col lg={6} className="text-white hero-text">
             <h1>Garuda enterprises</h1>
-            <h2>Delivering Reliability Every Day</h2>
+            <h2>Global Trade Excellence</h2>
             <p className="lead">
-              Fast, secure, and eco-friendly delivery services for businesses and individuals.
-              Trusted by many of customers nationwide.
+              Reliable, efficient, and compliant import/export solutions for businesses worldwide. Trusted by companies across international markets.
             </p>
             <div className="hero-buttons">
-              <a href="https://www.indiapost.gov.in/_layouts/15/dop.portal.tracking/trackconsignment.aspx"><Button variant="primary" size="lg" className="me-3">Track Your Package</Button></a>
+              <a href="#order-form"><Button variant="primary" size="lg" className="me-3">Order</Button></a>
              
             </div>
           </Col>
