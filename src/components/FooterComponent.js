@@ -59,13 +59,13 @@ function FooterComponent() {
                   <i className="fas fa-phone-alt me-2"></i> +91 90360 34300<br />
                   <i className="fas fa-envelope me-2"></i> garudaenterprises823@gmail.com
                 </p>
-                {/* <div className="social-links mt-3">
+                <div className="social-links mt-3">
                   <a href="#" className="facebook"><i className="fab fa-facebook-f"></i></a>
                   <a href="#" className="twitter"><i className="fab fa-twitter"></i></a>
                   <a href="#" className="instagram"><i className="fab fa-instagram"></i></a>
                   <a href="#" className="linkedin"><i className="fab fa-linkedin-in"></i></a>
                   <a href="#" className="whatsapp"><i className="fab fa-whatsapp"></i></a>
-                </div> */}
+                </div>
               </div>
             </Col>
           </Row>
@@ -78,7 +78,9 @@ function FooterComponent() {
             <div className="copyright">
               &copy; {new Date().getFullYear()} <strong>Garuda Enterprises</strong>. All Rights Reserved
             </div>
-           
+            <div className="credits">
+              <a href="#privacy">Privacy Policy</a> | <a href="#terms">Terms of Service</a>
+            </div>
           </div>
         </Container>
       </div>
