@@ -14,10 +14,7 @@ function HeroSection() {
             <p className="lead">
               Reliable, efficient, and compliant import/export solutions for businesses worldwide. Trusted by companies across international markets.
             </p>
-            <div className="hero-buttons">
-              <a href="#order-form"><Button variant="primary" size="lg" className="me-3">Order</Button></a>
-             
-            </div>
+           
           </Col>
         </Row>
       </Container>

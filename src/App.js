@@ -3,7 +3,9 @@ import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import NavbarComponent from './components/NavbarComponent';
 import HeroSection from './components/HeroSection';
-import OrderForm from './components/OrderForm';
+
+import ProductCarousel from './components/ProductCarousel';
+import CompanyProfile from './components/CompanyProfile';
 import ServicesComponent from './components/ServicesComponent';
 import FooterComponent from './components/FooterComponent';
 
@@ -13,8 +15,11 @@ function App() {
       <NavbarComponent />
       <HeroSection />
       
+      
+      <ProductCarousel />
       <ServicesComponent />
-    <OrderForm />
+      <CompanyProfile />
+    
       <FooterComponent />
     </div>
   );
