@@ -51,9 +51,9 @@ function FooterComponent() {
                 <h4>Contact Us</h4>
                 <p>
                   <i className="fas fa-map-marker-alt me-2"></i>
-                  2310/25 Mahadevpura main road<br />
-                  Badavala Nagar, B Narayanapura<br />
-                  Bengaluru, Karnataka, 560048<br />
+                  Garuda Enterprises<br />
+                  puttappa industrial estate, white field road<br />
+                  Mahadevapura, Bengaluru, Karnataka, India (560048)<br />
                 </p>
                 <p>
                   <i className="fas fa-phone-alt me-2"></i> +91 90360 34300<br />
